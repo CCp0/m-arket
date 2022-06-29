@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'm-arket';
+  /* API Key: AIzaSyDJNwMHejYwpm1iIMAh872V1OaDV96Bdls */
 }
