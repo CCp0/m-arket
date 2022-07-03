@@ -1,0 +1,17 @@
+export class Item {
+    Id:number;
+    name:string;
+    brand:string;
+    model:string;
+    barcode:string;
+    estPrice:number
+    constructor(Id:number, name:string, brand:string, model:string, barcode:string, estPrice:number)
+    {
+        this.Id = Id;
+        this.name = name;
+        this.brand = brand;
+        this.model = model;
+        this.barcode = barcode;
+        this.estPrice = estPrice;
+    }
+}
